@@ -1,4 +1,3 @@
-# dnssec
 使用golang基于libpcap写的一个dns流量分析程序
 
 # DNS流量分析程序
